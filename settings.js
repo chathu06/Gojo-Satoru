@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['0786047045']
-global.premium = ['0759985927']
-global.ownernomer = '0759985927'
+global.owner = ['94759985927']
+global.premium = ['94759985927']
+global.ownernomer = '94759985927'
 global.ownername = 'Chathura Lakshan'
 global.botname = 'Cl|Walker'
 global.footer = '©Cl|Walker.'
